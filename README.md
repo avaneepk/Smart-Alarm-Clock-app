@@ -11,7 +11,12 @@ The project was a part of a group work for an university course about Smart Syst
 
 ## Installing dependencies
 
-*Mentioned in the file*
+go to [pytorch](https://pytorch.org/get-started/locally/) and select the options suitable for installing pytorch in your computer then copy the command and run it.
+
+type:
+- git clone [yolov5](https://github.com/ultralytics/yolov5)
+- cd yolov5
+- pip install -r requirements.txt 
 
 ## How to run the project
 
